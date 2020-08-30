@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Poller+One&display=swap');
+
+body {
+  font-family: 'Poller One', cursive;
+  background-image: url("Images/sky.jpg");
+  color: whitesmoke;
+  background-attachment: fixed;
+}
+
+header {
+  background-color: rgba(60, 69, 67, 0.6);
+  border-radius: 15px 15px 0 0;
+}
+
+header h1 {
+  letter-spacing: 0.2em;
+}
+
+footer {
+  background-color: rgba(60, 69, 67, 0.6);
+  border-radius: 0 0 15px 15px;
+  height: 5em;
+}
+
+.btn > .bold {
+  font-size: 1.2em;
+  color: black;
+  font-variant: small-caps;
+}
+
+section.float-right.rounded-bottom{
+  border-bottom-right-radius: 15px!important;
+  border-bottom-left-radius: 15px!important;
+}
+
+

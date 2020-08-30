@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/StarWarsPageReact/static/css/main.bb74d596.chunk.css",
+    "main.js": "/StarWarsPageReact/static/js/main.8faf5263.chunk.js",
+    "main.js.map": "/StarWarsPageReact/static/js/main.8faf5263.chunk.js.map",
+    "runtime-main.js": "/StarWarsPageReact/static/js/runtime-main.c6c118d3.js",
+    "runtime-main.js.map": "/StarWarsPageReact/static/js/runtime-main.c6c118d3.js.map",
+    "static/css/2.89f067aa.chunk.css": "/StarWarsPageReact/static/css/2.89f067aa.chunk.css",
+    "static/js/2.d219fff3.chunk.js": "/StarWarsPageReact/static/js/2.d219fff3.chunk.js",
+    "static/js/2.d219fff3.chunk.js.map": "/StarWarsPageReact/static/js/2.d219fff3.chunk.js.map",
+    "index.html": "/StarWarsPageReact/index.html",
+    "precache-manifest.caf90747a5cad75aedae1404784e94b2.js": "/StarWarsPageReact/precache-manifest.caf90747a5cad75aedae1404784e94b2.js",
+    "service-worker.js": "/StarWarsPageReact/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/StarWarsPageReact/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.bb74d596.chunk.css.map": "/StarWarsPageReact/static/css/main.bb74d596.chunk.css.map",
+    "static/js/2.d219fff3.chunk.js.LICENSE.txt": "/StarWarsPageReact/static/js/2.d219fff3.chunk.js.LICENSE.txt",
+    "static/media/friend0.jpg": "/StarWarsPageReact/static/media/friend0.ac447590.jpg",
+    "static/media/friend1.jpg": "/StarWarsPageReact/static/media/friend1.ddbb6c95.jpg",
+    "static/media/friend2.jpg": "/StarWarsPageReact/static/media/friend2.97f0c7be.jpg",
+    "static/media/friend3.jpg": "/StarWarsPageReact/static/media/friend3.b137b398.jpg",
+    "static/media/friend4.jpg": "/StarWarsPageReact/static/media/friend4.1f9bc1b2.jpg",
+    "static/media/friend5.jpg": "/StarWarsPageReact/static/media/friend5.32d6eeb5.jpg",
+    "static/media/friend6.jpg": "/StarWarsPageReact/static/media/friend6.1ad67883.jpg",
+    "static/media/friend7.jpg": "/StarWarsPageReact/static/media/friend7.6912308b.jpg",
+    "static/media/friend8.jpg": "/StarWarsPageReact/static/media/friend8.879d7419.jpg",
+    "static/media/friend9.jpg": "/StarWarsPageReact/static/media/friend9.7b4bb470.jpg",
+    "static/media/App.css": "/StarWarsPageReact/static/media/sky.83bd4e24.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6c118d3.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.d219fff3.chunk.js",
+    "static/css/main.bb74d596.chunk.css",
+    "static/js/main.8faf5263.chunk.js"
+  ]
+}
